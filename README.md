@@ -47,9 +47,13 @@ After completing your draft materials, submit an issue to [the workshop template
 
 If the workshop you are leading already has pre-existing material, you can access the existing repository and create a fork. From there, you can make the changes you plan to make.
 
-### 2. Submit a Pull Request
+### 2. Submit a Pull Request & create an issue
 
-After completing your changes, you can submit a pull request to the original repository. Please ensure to include a description of the changes made. Our academic team will then review the changes and provide feedback as needed. Once all of the feedback is addressed, the pull request will be approved and merged.
+After completing your changes, you can submit a pull request to the original repository. Please ensure to include a description of the changes made. Our academic team will then review the changes and provide feedback as needed. Once all of the feedback is addressed, the pull request will be approved and merged. 
+
+**⚠️Please make sure to also submit an issue to the [Workshop_Template repository](https://github.com/QLS-MiCM/Workshop_Template/issues)!⚠️** This ensures that our staff are notified of your pull request and can promptly review and merge the changes. 
+
+Set the title of the issue as PR: Worshop_Name and provide a link to your pull request.
 
 ## Additional Guidelines
 
