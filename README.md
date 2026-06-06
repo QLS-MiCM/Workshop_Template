@@ -27,9 +27,10 @@ The repo will have the following structure:
 ```
 It is required to provide at least the following content:
 
--   READE.md (this MUST include a brief outline, prerequisites and setup instructions)
+-   README.md (this MUST include a brief outline, prerequisites and setup instructions)
 
 -   Slides
+    - Be sure to include an extra slide with the feedback QR code provided under `slides/feedback-qr.png`.
 
 -   Scripts
 
