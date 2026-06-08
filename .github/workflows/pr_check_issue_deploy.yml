@@ -6,6 +6,7 @@ on:
 
 jobs:
   checklist-and-issue:
+    if: github.event.repository.name != 'Workshop_Template'
     runs-on: ubuntu-latest
 
     permissions:
