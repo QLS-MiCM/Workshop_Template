@@ -39,7 +39,7 @@ It is required to provide at least the following content:
 
 ### 2. Submitting Workshop Materials
 
-After completing your draft materials, submit an issue to [the workshop template page](https://github.com/QLS-MiCM/Workshop_Template/issues) with the **workshop name and date** as the title. From here, our academic team will review the materials and share constructive feedback as is required. After the materials are deemed complete, a new repo page will be made within the QLS-MiCM organization from which participants will access the materials.
+After completing your draft materials, **submit an issue to [the workshop template page](https://github.com/QLS-MiCM/Workshop_Template/issues)** with the **workshop name and date** as the title. From here, our academic team will review the materials and share constructive feedback as is required. After the materials are deemed complete, a new repo page will be made within the QLS-MiCM organization from which participants will access the materials.
 
 ## <ins>Contributing to existing Workshop Materials
 
@@ -53,7 +53,7 @@ After completing your changes, you can submit a pull request to the original rep
 
 Once all of the feedback is addressed, the pull request will be approved and merged. 
 
-**⚠️All feedback and communications will be handled via a GitHub Issue on this repo [Workshop_Template repository](https://github.com/QLS-MiCM/Workshop_Template/issues)!⚠️** This will automatically be generated after your pull request is made. 
+**⚠️All feedback and communications will be handled via a GitHub Issue in the [Workshop_Template repository](https://github.com/QLS-MiCM/Workshop_Template/issues)!⚠️** This will automatically be generated after your pull request is made. 
 
 ## Additional Guidelines
 
