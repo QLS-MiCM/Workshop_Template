@@ -49,11 +49,11 @@ If the workshop you are leading already has pre-existing material, you can acces
 
 ### 2. Submit a Pull Request & create an issue
 
-After completing your changes, you can submit a pull request to the original repository. Please ensure to include a description of the changes made. Our academic team will then review the changes and provide feedback as needed. Once all of the feedback is addressed, the pull request will be approved and merged. 
+After completing your changes, you can submit a pull request to the original repository. Please ensure to include a description of the changes made. Our academic team will then review the changes and provide feedback as needed. A GitHub Actions script will automatically respond with a reminder checklist. **Please complete the checklist to facilitate the review process and ensure the workshop can be deployed on time.**
 
-**⚠️Please make sure to also submit an issue to the [Workshop_Template repository](https://github.com/QLS-MiCM/Workshop_Template/issues)!⚠️** This ensures that our staff are notified of your pull request and can promptly review and merge the changes. 
+Once all of the feedback is addressed, the pull request will be approved and merged. 
 
-Set the title of the issue as PR: Worshop_Name and provide a link to your pull request.
+**⚠️All feedback and communications will be handled via a GitHub Issue on this repo [Workshop_Template repository](https://github.com/QLS-MiCM/Workshop_Template/issues)!⚠️** This will automatically be generated after your pull request is made. 
 
 ## Additional Guidelines
 
