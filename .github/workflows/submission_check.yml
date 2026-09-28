@@ -39,7 +39,7 @@ jobs:
               "",
               "Please confirm the following before requesting review:",
               "",
-              "- [ ] You have read the [workshop submission guidelines](https://github.com/Workshop_Template/)",
+              "- [ ] You have read the [workshop submission guidelines](https://github.com/QLS-MiCM/Workshop_Template#readme)",
               "- [ ] You have included a README outlining the workshop and its contents",
               "- [ ] You have included requirements and setup instructions in the README.md",
               "- [ ] You have tested the workshop exercises and data sets",
